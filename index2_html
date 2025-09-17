@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
     <svg width = "200" height ="150">
         <rect x="10" y="10" width="80" height="50" fill="green" />
         <line x1="" y1="100" x2="80" y2="100" stroke="red" />
