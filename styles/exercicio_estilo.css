@@ -1,0 +1,13 @@
+body{
+    background-color:#f4f4f4
+}
+h1{
+    color:white
+    background-image:url(src/imagens/livros.gif)
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position-x: center;
+}
+p{
+    color:#333333
+}
